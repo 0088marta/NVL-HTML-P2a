@@ -1,0 +1,20 @@
+echo "# NVL-HTML-P2a" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/0088marta/NVL-HTML-P2a.git
+git push -u origin master
+
+<html>
+   <head>
+      <title><strong>Los 4 elementos imprescindibles para que un diseño web marque la diferencia</strong></title>
+   </head>
+   <body>
+         <p>En la actualidad, las empresas están inmersas en un mundo y mercado digital <strong>altamente exigente y competitivo</strong></p>.
+         <p>Por ello, la forma en que la empresa muestra al usuario final sus servicios o productos en su página web es <strong>vital para conseguir una conversión</strong>.</p>
+         <p>La información, el diseño y la tipografía son la llave para <strong>mejorar el manejo y la accesibilidad a la compra</strong></p>
+         <p>De esta forma, pueden <strong>atraer al cliente</strong> e invitarle a que se quede en la página y acabe consumiendo</p>
+         <p>El usuario busca información relevante en internet. Escanea de manera rápida y eficaz y no duda en abandonar una página si le resulta difícil encontrar lo que necesita. por ello es importante cuidar el diseño web de tu sitio.</p>
+         <link>https://www.marketingdirecto.com/marketing-general/tendencias/los-4-elementos-imprescindibles-para-que-un-diseno-web-marque-la-diferencia</link>
+   </body> 
+</html/         
